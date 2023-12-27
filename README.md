@@ -1,3 +1,13 @@
+More examples to tryout:
+Use an express server.
+Use Pusher serverless provider.
+
+WIP:
+Need to fix UI and its rendering.
+Have an set of users to enter or leave chat.
+
+
+### NextJs instructions
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
